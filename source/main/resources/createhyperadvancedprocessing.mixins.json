@@ -1,0 +1,11 @@
+{
+    "required": true,
+    "package": "net.umi-io.createHyperAdvancedProcessing.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "mixins": [
+      "example"
+    ],
+    "injectors": {
+      "defaultRequire": 1
+      }
+  }

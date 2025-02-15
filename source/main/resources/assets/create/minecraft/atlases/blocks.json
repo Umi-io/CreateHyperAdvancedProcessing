@@ -1,0 +1,12 @@
+{
+    "sources": [
+      {
+        "type": "single",
+        "resource": "CHAP:block/block/example"
+      },
+      {
+        "type": "single",
+        "resource": "CHAP:block/fluid/example"
+      }
+    ]
+  }
