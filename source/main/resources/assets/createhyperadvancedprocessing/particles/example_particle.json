@@ -1,0 +1,6 @@
+{
+    "textures": [
+        "createhyperadvancedprocessing:particles/example_particle",
+        "minecraft:particles/explosion"
+    ]
+}
